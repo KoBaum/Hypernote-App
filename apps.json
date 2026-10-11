@@ -1,0 +1,32 @@
+{
+  "name": "Hypernote",
+  "identifier": "de.kobaum.hypernote.quelle",
+  "sourceURL": "https://raw.githubusercontent.com/KoBaum/Hypernote-App/HEAD/apps.json",
+  "iconURL": "https://raw.githubusercontent.com/KoBaum/Hypernote-App/HEAD/icon.png",
+  "apps": [
+    {
+      "name": "Hypernote",
+      "bundleIdentifier": "de.kobaum.testlauf",
+      "developerName": "KoBaum",
+      "localizedDescription": "Hypernote für das iPad.",
+      "iconURL": "https://raw.githubusercontent.com/KoBaum/Hypernote-App/HEAD/icon.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "24",
+          "date": "2026-10-11T12:15:32Z",
+          "localizedDescription": "Build 24",
+          "downloadURL": "https://github.com/KoBaum/Hypernote-App/releases/download/build-24/Hypernote.ipa",
+          "size": 3228551,
+          "sha256": "293ed90820528fc9ed35f178eee465ea943614fd8670d9a6590b0a67cbb86bf0",
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
