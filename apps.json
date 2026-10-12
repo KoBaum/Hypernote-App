@@ -13,19 +13,20 @@
       "versions": [
         {
           "version": "1.0",
-          "buildVersion": "43",
-          "date": "2026-10-12T16:08:34Z",
-          "localizedDescription": "Build 43",
-          "downloadURL": "https://github.com/KoBaum/Hypernote-App/releases/download/build-43/Hypernote.ipa",
-          "size": 10984353,
-          "sha256": "009a45c5429d42cb46348a73e418cacf234b09ebf5360f424e7cc4485a68c65b",
+          "buildVersion": "44",
+          "date": "2026-10-12T16:19:53Z",
+          "localizedDescription": "Build 44",
+          "downloadURL": "https://github.com/KoBaum/Hypernote-App/releases/download/build-44/Hypernote.ipa",
+          "size": 10989697,
+          "sha256": "58424b6c059a678ea6e0a949eb0cc6383f811ef3d2ad4b36b1fc08e7f3392ab2",
           "minOSVersion": "17.0"
         }
       ],
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSCameraUsageDescription": "Fotos direkt ins Notizbuch aufnehmen"
+          "NSCameraUsageDescription": "Fotos direkt ins Notizbuch aufnehmen",
+          "NSPhotoLibraryUsageDescription": "Fotos ins Notizbuch einfügen"
         }
       }
     }
