@@ -13,12 +13,12 @@
       "versions": [
         {
           "version": "1.0",
-          "buildVersion": "76",
-          "date": "2026-11-09T19:25:25Z",
-          "localizedDescription": "Build 76",
-          "downloadURL": "https://github.com/KoBaum/Hypernote-App/releases/download/build-76/Hypernote.ipa",
-          "size": 11348270,
-          "sha256": "f2930c3974b7299b16d370158235fc23b85f3e8b96db1bdde0f3f538701d04b5",
+          "buildVersion": "77",
+          "date": "2026-11-09T20:22:20Z",
+          "localizedDescription": "Build 77",
+          "downloadURL": "https://github.com/KoBaum/Hypernote-App/releases/download/build-77/Hypernote.ipa",
+          "size": 11353102,
+          "sha256": "4992bc349401db8a54d70dbcccffc567ff283a5eb4f35544170e896ad392dcef",
           "minOSVersion": "17.0"
         }
       ],
