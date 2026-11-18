@@ -1,24 +1,24 @@
 {
-  "name": "Hypernote",
-  "identifier": "de.kobaum.hypernote.quelle",
+  "name": "Kupina Studios",
+  "identifier": "eu.kupina.quelle",
   "sourceURL": "https://raw.githubusercontent.com/KoBaum/Hypernote-App/HEAD/apps.json",
   "iconURL": "https://raw.githubusercontent.com/KoBaum/Hypernote-App/HEAD/icon.png",
   "apps": [
     {
-      "name": "Hypernote",
-      "bundleIdentifier": "de.kobaum.testlauf",
-      "developerName": "KoBaum",
-      "localizedDescription": "Hypernote für das iPad.",
+      "name": "Kupina Notes",
+      "bundleIdentifier": "eu.kupina.notes",
+      "developerName": "Kupina Studios",
+      "localizedDescription": "Kupina Notes für das iPad.",
       "iconURL": "https://raw.githubusercontent.com/KoBaum/Hypernote-App/HEAD/icon.png",
       "versions": [
         {
           "version": "1.0",
-          "buildVersion": "84",
-          "date": "2026-11-17T09:36:57Z",
-          "localizedDescription": "Build 84",
-          "downloadURL": "https://github.com/KoBaum/Hypernote-App/releases/download/build-84/Hypernote.ipa",
-          "size": 11472464,
-          "sha256": "2f035593980a61e55a2732f785e6e95f0d85d97ebf6d3ef24af110d57693bc23",
+          "buildVersion": "85",
+          "date": "2026-11-18T09:47:50Z",
+          "localizedDescription": "Build 85",
+          "downloadURL": "https://github.com/KoBaum/Hypernote-App/releases/download/build-85/KupinaNotes.ipa",
+          "size": 11485406,
+          "sha256": "7d5858d6b2eceb7a29cc6e4b786f1563139e7da1d328de9d75baec0142e7ac2d",
           "minOSVersion": "17.0"
         }
       ],
