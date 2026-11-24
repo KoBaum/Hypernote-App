@@ -29,6 +29,31 @@
           "NSPhotoLibraryUsageDescription": "Fotos ins Notizbuch einfügen"
         }
       }
+    },
+    {
+      "name": "Kupina Reader",
+      "bundleIdentifier": "eu.kupina.reader",
+      "developerName": "Kupina Studios",
+      "localizedDescription": "Zeigt HTML-Seiten (digitale Arbeitsblätter, Simulationen), PDF- und Word-Dateien direkt aus der Dateien-App, iCloud Drive oder OneDrive – immer in der aktuellen Fassung, HTML mit JavaScript, Bildern und Eingaben.",
+      "iconURL": "https://raw.githubusercontent.com/KoBaum/Hypernote-App/HEAD/icon-reader.png",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "2",
+          "date": "2026-11-24T16:28:02Z",
+          "localizedDescription": "Build 2",
+          "downloadURL": "https://github.com/KoBaum/Hypernote-App/releases/download/reader-2/KupinaReader.ipa",
+          "size": 563795,
+          "sha256": "a20aeb2d4aef83158299cae6f84a65932cd6be22fbfc4b762af42be3fe906289",
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Fotos für Eingabefelder in HTML-Seiten aufnehmen"
+        }
+      }
     }
   ],
   "news": []
