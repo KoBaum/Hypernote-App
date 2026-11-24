@@ -13,12 +13,12 @@
       "versions": [
         {
           "version": "1.0",
-          "buildVersion": "96",
-          "date": "2026-11-24T17:03:27Z",
-          "localizedDescription": "Build 96",
-          "downloadURL": "https://github.com/KoBaum/Hypernote-App/releases/download/build-96/KupinaNotes.ipa",
-          "size": 3734319,
-          "sha256": "92cd3df5aa704141eb80157434b1a71f3d8177ebec834f77b56c0e8c98e99879",
+          "buildVersion": "97",
+          "date": "2026-11-24T17:18:20Z",
+          "localizedDescription": "Build 97",
+          "downloadURL": "https://github.com/KoBaum/Hypernote-App/releases/download/build-97/KupinaNotes.ipa",
+          "size": 3771502,
+          "sha256": "d427f7a542818ee31bd2df5a9369414ecc4b57891434a634c68af2de5f774de9",
           "minOSVersion": "17.0"
         }
       ],
