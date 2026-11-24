@@ -35,16 +35,16 @@
       "bundleIdentifier": "eu.kupina.reader",
       "developerName": "Kupina Studios",
       "localizedDescription": "Zeigt HTML-Seiten (digitale Arbeitsblätter, Simulationen), PDF- und Word-Dateien direkt aus der Dateien-App, iCloud Drive oder OneDrive – immer in der aktuellen Fassung, HTML mit JavaScript, Bildern und Eingaben.",
-      "iconURL": "https://raw.githubusercontent.com/KoBaum/Hypernote-App/HEAD/icon-reader.png",
+      "iconURL": "https://raw.githubusercontent.com/KoBaum/Hypernote-App/HEAD/icon-reader.png?v=85badabec69b",
       "versions": [
         {
           "version": "1.0",
-          "buildVersion": "2",
-          "date": "2026-11-24T16:28:02Z",
-          "localizedDescription": "Build 2",
-          "downloadURL": "https://github.com/KoBaum/Hypernote-App/releases/download/reader-2/KupinaReader.ipa",
-          "size": 563795,
-          "sha256": "a20aeb2d4aef83158299cae6f84a65932cd6be22fbfc4b762af42be3fe906289",
+          "buildVersion": "3",
+          "date": "2026-11-24T16:46:04Z",
+          "localizedDescription": "Build 3",
+          "downloadURL": "https://github.com/KoBaum/Hypernote-App/releases/download/reader-3/KupinaReader.ipa",
+          "size": 714609,
+          "sha256": "433c8489c23a02bc71c2ff5aa55ccfd7d99f951ea4b1a6378e514388ced6abaf",
           "minOSVersion": "17.0"
         }
       ],
