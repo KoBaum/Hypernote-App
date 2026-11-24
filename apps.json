@@ -39,12 +39,12 @@
       "versions": [
         {
           "version": "1.0",
-          "buildVersion": "3",
-          "date": "2026-11-24T16:46:04Z",
-          "localizedDescription": "Build 3",
-          "downloadURL": "https://github.com/KoBaum/Hypernote-App/releases/download/reader-3/KupinaReader.ipa",
-          "size": 714609,
-          "sha256": "433c8489c23a02bc71c2ff5aa55ccfd7d99f951ea4b1a6378e514388ced6abaf",
+          "buildVersion": "4",
+          "date": "2026-11-24T17:17:28Z",
+          "localizedDescription": "Build 4",
+          "downloadURL": "https://github.com/KoBaum/Hypernote-App/releases/download/reader-4/KupinaReader.ipa",
+          "size": 731289,
+          "sha256": "6dd28064d70c64a346cc9b276d706a214578b2630c3bbe6abe9b8a89addccfbf",
           "minOSVersion": "17.0"
         }
       ],
