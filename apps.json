@@ -54,6 +54,31 @@
           "NSCameraUsageDescription": "Fotos für Eingabefelder in HTML-Seiten aufnehmen"
         }
       }
+    },
+    {
+      "name": "Kupina Docs",
+      "bundleIdentifier": "eu.kupina.docs",
+      "developerName": "Kupina Studios",
+      "localizedDescription": "PDF-Werkzeuge, Dokumentenscanner und Reader in einem: PDFs zusammenfügen, ordnen, unterschreiben und verkleinern, Dokumente scannen und durchsuchbar machen, PDF, Word, PowerPoint, Excel, E-Books und HTML lesen. Alles offline auf dem iPad.",
+      "iconURL": "https://raw.githubusercontent.com/KoBaum/Hypernote-App/HEAD/icon-docs.png?v=a50c51e6b3a3",
+      "versions": [
+        {
+          "version": "1.10.1",
+          "buildVersion": "1",
+          "date": "2026-11-26T22:55:39Z",
+          "localizedDescription": "Build 1",
+          "downloadURL": "https://github.com/KoBaum/Hypernote-App/releases/download/docs-1/KupinaDocs.ipa",
+          "size": 8515902,
+          "sha256": "de891ea46d4873e081ff2c1de5e4e6e9b3389d9fbe68cd78a768d5ce1ec7c0ac",
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Dokumente mit der Kamera scannen"
+        }
+      }
     }
   ],
   "news": []
