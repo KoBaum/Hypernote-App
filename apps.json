@@ -63,13 +63,13 @@
       "iconURL": "https://raw.githubusercontent.com/KoBaum/Hypernote-App/HEAD/icon-docs.png?v=a50c51e6b3a3",
       "versions": [
         {
-          "version": "1.10.1",
-          "buildVersion": "1",
-          "date": "2026-11-26T22:55:39Z",
-          "localizedDescription": "Build 1",
-          "downloadURL": "https://github.com/KoBaum/Hypernote-App/releases/download/docs-1/KupinaDocs.ipa",
-          "size": 8515902,
-          "sha256": "de891ea46d4873e081ff2c1de5e4e6e9b3389d9fbe68cd78a768d5ce1ec7c0ac",
+          "version": "1.11.0",
+          "buildVersion": "2",
+          "date": "2026-11-26T23:30:03Z",
+          "localizedDescription": "Build 2",
+          "downloadURL": "https://github.com/KoBaum/Hypernote-App/releases/download/docs-2/KupinaDocs.ipa",
+          "size": 8526595,
+          "sha256": "f33850a355cecbd7805fd3c03a95fdba77be5bab43a904e370fe457c007d2bf0",
           "minOSVersion": "17.0"
         }
       ],
